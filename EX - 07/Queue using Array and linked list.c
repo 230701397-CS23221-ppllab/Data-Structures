@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-07 : Queue using Array and linked list.c
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
