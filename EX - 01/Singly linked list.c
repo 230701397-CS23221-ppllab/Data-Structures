@@ -1,4 +1,8 @@
-    
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-01 : Singly linked list
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
   
