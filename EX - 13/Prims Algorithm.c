@@ -1,3 +1,7 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-13 : prims algorithm
+
  
 #include <stdio.h> 
 #include <stdbool.h> 
