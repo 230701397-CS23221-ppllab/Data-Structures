@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-05 : infix to postfix
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
