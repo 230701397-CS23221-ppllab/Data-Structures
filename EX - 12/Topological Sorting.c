@@ -1,5 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-12 : topological sorting
+
 #include <stdio.h> 
- 
 #define MAX_VERTICES 10 
  
 int graph[MAX_VERTICES][MAX_VERTICES] = {0}; 
