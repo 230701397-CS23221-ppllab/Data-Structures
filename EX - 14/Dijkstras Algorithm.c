@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-14 : dijkshtra's algorithm
+
+
 #include <stdio.h> 
 #include <stdbool.h> 
  
