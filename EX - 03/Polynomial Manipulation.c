@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-03 : Polynomial Manipulation.c
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
   
