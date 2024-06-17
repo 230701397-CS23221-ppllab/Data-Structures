@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-11 : bfs,dfs
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
