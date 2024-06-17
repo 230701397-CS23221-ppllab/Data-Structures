@@ -1,6 +1,6 @@
 NAME : MIRUTHYUNJAI SM   
 ROLL NO : 230701397
-EX-05 : arithmetic expression
+EX-06 : arithmetic expression
 
 
 #include <stdio.h> 
