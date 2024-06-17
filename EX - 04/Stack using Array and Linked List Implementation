@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-04 : Stack using Array and Linked List Implementation
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 // Structure for node in linked list implementation 
