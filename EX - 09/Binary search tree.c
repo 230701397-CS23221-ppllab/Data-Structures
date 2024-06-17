@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-09 :binary search tree implementation
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
  
