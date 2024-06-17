@@ -1,3 +1,8 @@
+NAME : MIRUTHYUNJAI SM   
+ROLL NO : 230701397
+EX-16 : Collision Resolution Techniques
+
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <stdbool.h> 
